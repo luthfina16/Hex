@@ -1,0 +1,2 @@
+#!/bin/bash
+SYSTEM_VERSION_COMPAT=1 open /Applications/Parallels\ Desktop.app
