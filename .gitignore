@@ -1,6 +1,32 @@
-if you cannot kill it is you loser ind1neun3si000/
-# .v4p backup files
-*~.xml
+# Prerequisites
+*.d
 
-# Dynamic plugins .dll
-bin/
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
